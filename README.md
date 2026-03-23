@@ -1,3 +1,5 @@
+# student-performance-ML
+
 **Student Performance Analysis using Random Forest**
 This is a Machine Learning project that predicts whether a student will Pass or Fail based on different features like absences, failures, age, study time, alcohol consumption, family background and health.
 
@@ -18,4 +20,4 @@ Students with higher absences tend to perform poorly
 Previous academic failures strongly predict future performance
 Age is also a significant factor in student performance
 
-# student-performance-ML
+
