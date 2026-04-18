@@ -1,6 +1,4 @@
-# Student-performance
-
-**Student Performance Analysis using Random Forest**
+# Student Performance Analysis using Random Forest
 This is a Machine Learning project that predicts whether a student will Pass or Fail based on different features like absences, failures, age, study time, alcohol consumption, family background and health.
 
 **Dataset:** Kaggle Student Performance Dataset
